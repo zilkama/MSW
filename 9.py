@@ -1,4 +1,3 @@
-
 #9
 
 import numpy as nmp
